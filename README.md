@@ -4,7 +4,8 @@
 Playing with net core global tools
 ```
 > In this demo, i m building a dummy global cli tool that allows to manipulate string texts
-> the tool is based on main command and 3 sub commmands :
+>
+> The tool is based on one main command and three sub commmands :
 > - Use sub command `PalindromeStringCli` to check if text is palindrome
 > - Use sub command `ReverseStringCli` to reverse text
 > - Use sub command `SortStringCli` to sort text
